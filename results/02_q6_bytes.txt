@@ -1,0 +1,5 @@
+# bytes each query must fetch, from parquet_metadata (compressed column chunk sizes)
+lineitem_default q6 column chunks 1952 MB 480
+lineitem_default q1 column chunks 3416 MB 533
+lineitem_rg128mb q6 column chunks 364 MB 476
+lineitem_rg128mb q1 column chunks 637 MB 528

@@ -1,0 +1,21 @@
+{
+    "lambda_mb": "10240",
+    "bytes": 2206263376,
+    "runs": [
+        {
+            "seconds": 26.5,
+            "MB_per_s": 83.3,
+            "Gbit_per_s": 0.67
+        },
+        {
+            "seconds": 29.45,
+            "MB_per_s": 74.9,
+            "Gbit_per_s": 0.6
+        },
+        {
+            "seconds": 29.11,
+            "MB_per_s": 75.8,
+            "Gbit_per_s": 0.61
+        }
+    ]
+}

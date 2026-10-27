@@ -1,0 +1,21 @@
+{
+    "duckdb": "2.0.0",
+    "platform": "linux_arm64",
+    "lambda_mb": "10240",
+    "cpus": 6,
+    "async_threads": "24",
+    "http_client_pool_capacity": "24",
+    "memory_limit": "8.3 GiB",
+    "read_ahead_depth": "0",
+    "threads": "6",
+    "query": "q6",
+    "path": "s3://duckdb2-async-lab-123456789012-us-east-1/sf10/lineitem_rg128mb.parquet",
+    "settings": {
+        "read_ahead_depth": 0
+    },
+    "seconds": [
+        5.121,
+        6.77,
+        6.643
+    ]
+}

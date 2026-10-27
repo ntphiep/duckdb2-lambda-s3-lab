@@ -1,0 +1,5 @@
+{
+    "dbgen_s": 19.5,
+    "lineitem_default.parquet": 70.0,
+    "lineitem_rg128mb.parquet": 94.0
+}

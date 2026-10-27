@@ -1,0 +1,14 @@
+[
+    [
+        "s3://duckdb2-async-lab-123456789012-us-east-1/sf10/lineitem_default.parquet",
+        488,
+        124923,
+        2199148040
+    ],
+    [
+        "s3://duckdb2-async-lab-123456789012-us-east-1/sf10/lineitem_rg128mb.parquet",
+        91,
+        669089,
+        2086911010
+    ]
+]

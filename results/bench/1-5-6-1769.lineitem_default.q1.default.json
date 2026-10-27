@@ -1,0 +1,16 @@
+{
+    "duckdb": "1.5.6",
+    "platform": "linux_arm64",
+    "lambda_mb": "1769",
+    "cpus": 2,
+    "memory_limit": "1.7 GiB",
+    "threads": "2",
+    "query": "q1",
+    "path": "s3://duckdb2-async-lab-123456789012-us-east-1/sf10/lineitem_default.parquet",
+    "settings": {},
+    "seconds": [
+        24.953,
+        24.297,
+        26.458
+    ]
+}
